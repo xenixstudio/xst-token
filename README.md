@@ -12,5 +12,5 @@ Facebook : http://facebook.com/xensor.iot
 
 Medium : https://medium.com/@xenix
 
-Telegram : https://t.me/joinchat/LAEiGxR1XerPt6-xioUPdg
+Telegram : http://t.me/xensor_iot
 
